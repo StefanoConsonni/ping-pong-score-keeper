@@ -15,9 +15,9 @@ A cool and colorful Ping Pong score keeper that I made to practice my Bulma-CSS 
 This project is created with:
 
 - HTML
-- CSS
+- Bulma CSS
 - Javascript
 
 ## Setup
 
-To run this project, just open it in your local server using the Live Server VS Code extension.
+To run the app, open it in your local development server using the Live Server VS Code extension.
